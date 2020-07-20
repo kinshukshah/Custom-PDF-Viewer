@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-bar{
+    background: rgb(177, 174, 174);
+    color: white;
+    padding: 1 rem;
+    
+}
+
+.btn{
+    background: cadetblue;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0.7rem 2rem;
+
+
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+.page-info{
+    margin: 1rem;
+}
+
+.error{
+    background: orangered;
+    color: white;
+    padding: 1rem;
+}
+.header{
+    background: black;
+    
+}
+
+#pdf-render{
+    position: absolute;
+}
